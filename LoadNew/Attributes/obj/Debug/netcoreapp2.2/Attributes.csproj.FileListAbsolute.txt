@@ -1,0 +1,16 @@
+C:\Users\RMB\source\repos\Attributes\Attributes\obj\Debug\netcoreapp2.2\Attributes.csprojAssemblyReference.cache
+C:\Users\RMB\source\repos\Attributes\Attributes\obj\Debug\netcoreapp2.2\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\RMB\source\repos\Attributes\Attributes\obj\Debug\netcoreapp2.2\Attributes.AssemblyInfoInputs.cache
+C:\Users\RMB\source\repos\Attributes\Attributes\obj\Debug\netcoreapp2.2\Attributes.AssemblyInfo.cs
+C:\Users\RMB\source\repos\Attributes\Attributes\bin\Debug\netcoreapp2.2\Attributes.deps.json
+C:\Users\RMB\source\repos\Attributes\Attributes\bin\Debug\netcoreapp2.2\Attributes.runtimeconfig.json
+C:\Users\RMB\source\repos\Attributes\Attributes\bin\Debug\netcoreapp2.2\Attributes.runtimeconfig.dev.json
+C:\Users\RMB\source\repos\Attributes\Attributes\bin\Debug\netcoreapp2.2\Attributes.dll
+C:\Users\RMB\source\repos\Attributes\Attributes\bin\Debug\netcoreapp2.2\Attributes.pdb
+C:\Users\RMB\source\repos\Attributes\Attributes\bin\Debug\netcoreapp2.2\WhatsNewAttributes.dll
+C:\Users\RMB\source\repos\Attributes\Attributes\bin\Debug\netcoreapp2.2\WhatsNewAttributes.pdb
+C:\Users\RMB\source\repos\Attributes\Attributes\obj\Debug\netcoreapp2.2\Attributes.csproj.CopyComplete
+C:\Users\RMB\source\repos\Attributes\Attributes\obj\Debug\netcoreapp2.2\Attributes.dll
+C:\Users\RMB\source\repos\Attributes\Attributes\obj\Debug\netcoreapp2.2\Attributes.pdb
+C:\Users\RMB\source\repos\Attributes\Attributes\bin\Debug\netcoreapp2.2\VectorClass.dll
+C:\Users\RMB\source\repos\Attributes\Attributes\bin\Debug\netcoreapp2.2\VectorClass.pdb

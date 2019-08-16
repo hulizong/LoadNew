@@ -1,0 +1,9 @@
+C:\Users\RMB\source\repos\Attributes\WhatsNewAttributes\bin\Debug\netstandard2.0\WhatsNewAttributes.deps.json
+C:\Users\RMB\source\repos\Attributes\WhatsNewAttributes\bin\Debug\netstandard2.0\WhatsNewAttributes.dll
+C:\Users\RMB\source\repos\Attributes\WhatsNewAttributes\bin\Debug\netstandard2.0\WhatsNewAttributes.pdb
+C:\Users\RMB\source\repos\Attributes\WhatsNewAttributes\obj\Debug\netstandard2.0\WhatsNewAttributes.csprojAssemblyReference.cache
+C:\Users\RMB\source\repos\Attributes\WhatsNewAttributes\obj\Debug\netstandard2.0\WhatsNewAttributes.csproj.CoreCompileInputs.cache
+C:\Users\RMB\source\repos\Attributes\WhatsNewAttributes\obj\Debug\netstandard2.0\WhatsNewAttributes.AssemblyInfoInputs.cache
+C:\Users\RMB\source\repos\Attributes\WhatsNewAttributes\obj\Debug\netstandard2.0\WhatsNewAttributes.AssemblyInfo.cs
+C:\Users\RMB\source\repos\Attributes\WhatsNewAttributes\obj\Debug\netstandard2.0\WhatsNewAttributes.dll
+C:\Users\RMB\source\repos\Attributes\WhatsNewAttributes\obj\Debug\netstandard2.0\WhatsNewAttributes.pdb

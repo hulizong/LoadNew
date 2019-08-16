@@ -1,0 +1,12 @@
+C:\Users\RMB\source\repos\Attributes\VectorClass\bin\Debug\netstandard2.0\VectorClass.deps.json
+C:\Users\RMB\source\repos\Attributes\VectorClass\bin\Debug\netstandard2.0\VectorClass.dll
+C:\Users\RMB\source\repos\Attributes\VectorClass\bin\Debug\netstandard2.0\VectorClass.pdb
+C:\Users\RMB\source\repos\Attributes\VectorClass\bin\Debug\netstandard2.0\WhatsNewAttributes.dll
+C:\Users\RMB\source\repos\Attributes\VectorClass\bin\Debug\netstandard2.0\WhatsNewAttributes.pdb
+C:\Users\RMB\source\repos\Attributes\VectorClass\obj\Debug\netstandard2.0\VectorClass.csprojAssemblyReference.cache
+C:\Users\RMB\source\repos\Attributes\VectorClass\obj\Debug\netstandard2.0\VectorClass.csproj.CoreCompileInputs.cache
+C:\Users\RMB\source\repos\Attributes\VectorClass\obj\Debug\netstandard2.0\VectorClass.AssemblyInfoInputs.cache
+C:\Users\RMB\source\repos\Attributes\VectorClass\obj\Debug\netstandard2.0\VectorClass.AssemblyInfo.cs
+C:\Users\RMB\source\repos\Attributes\VectorClass\obj\Debug\netstandard2.0\VectorClass.csproj.CopyComplete
+C:\Users\RMB\source\repos\Attributes\VectorClass\obj\Debug\netstandard2.0\VectorClass.dll
+C:\Users\RMB\source\repos\Attributes\VectorClass\obj\Debug\netstandard2.0\VectorClass.pdb
